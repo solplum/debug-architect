@@ -23,7 +23,7 @@ description: 调试建筑师——项目完成后扫描报错、分析根因、�
 
 ### 被 weaver 调用
 
-[weaver-自我迭代](https://github.com/2021291696/weaver-evolve) 在全局整理时会调用 debug-architect：
+[weaver-自我迭代](https://github.com/solplum/weaver-evolve) 在全局整理时会调用 debug-architect：
 1. weaver 第三步"周边整理"后，调用 debug-architect 扫描增量 sessions 中的报错
 2. debug-architect 输出错误清单、根因汇总、预防建议
 3. 结果嵌入 weaver 第五步变更摘要的"错误复盘"段落
