@@ -65,7 +65,7 @@
 
 | 项目 | 关系 |
 |------|------|
-| [skill-optimizer](https://github.com/2021291696/skill-optimizer) | 下游 — 调用我获取硬证据，执行 skill 优化 |
+| [skill-optimizer](https://github.com/solplum/skill-optimizer) | 下游 — 调用我获取硬证据，执行 skill 优化 |
 | systematic-debugging | 兄弟 — 实时调试（报错时用）vs 事后复盘（项目完成后用） |
 
 ## License
